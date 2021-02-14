@@ -31,6 +31,6 @@
     "r"     = "reply:";
     "a"     = "replyAll:";
     "f"     = "forwardMessage:";
-    "#"     = "deleteMessage:";
+    "d"     = "deleteMessage:";
 }
 
