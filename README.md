@@ -40,7 +40,7 @@ This keybindings file is focused on keyboard email handling so it has some easy 
 
 ## Installation
 
-Copy the `vim.plist` file into `~/Library/Application Support/MailMate/Resources/KeyBindings` then type "Seth" into the "Custom Key Bindings" field in the General section of settings.
+Copy the `vim.plist` file into `~/Library/Application Support/MailMate/Resources/KeyBindings` then type "vim" into the "Custom Key Bindings" field in the General section of settings.
 
 ## What is MailMate?
 
